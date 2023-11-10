@@ -2,7 +2,9 @@
 
 # Overview
 
-The X AI Integration Bot represents a pioneering step into social media automation by Exohood Labs. It is an experimental bot designed to replicate the nuances of human interaction on the X platform. Leveraging advanced machine learning and deep learning technologies, the bot can perform actions such as replying, liking posts, following accounts, and engaging users with a natural flair.
+The X AI Integration Bot represents a pioneering step into social media automation by Exohood Labs. It is an experimental bot designed to replicate the nuances of human interaction on the X platform. Leveraging advanced machine learning and deep learning technologies, the bot can perform actions such as replying, liking posts, following accounts, and engaging users with a natural flair. 
+
+Exania is designed to emulate the conversational style of an 18 year old, providing responses that are simple, jovial, and to the point, yet backed by extensive knowledge in various domains. This bot is not just another chatbot, it's a window into the capabilities of machine learning and the potential for AI to interact in social platforms like X and Telegram.
 
 # Features
 
@@ -13,6 +15,14 @@ The X AI Integration Bot represents a pioneering step into social media automati
 * Constant Learning: Continuously refines its knowledge base through a live interconnected feed from resources like Wikipedia, Common Crawl, and Medium.
 
 * Concise Responses: Tailors its responses to be brief yet informative, setting it apart from other AI models that may offer more verbose explanations.
+
+# How It Works
+
+Exania is designed to post about random messages, often sparked by specific topics from previous queries that piqued its curiosity or generated hype among users. It might also pick a topic at random. Once a post is published, Exania remains active for the next 30 minutes, during which it can respond to any replies it receives. After this period, Exania disconnects.
+
+This 30 minute interaction window is crucial for Exania's learning process, as it learns from user interactions. It's important to note that Exania is an experimental model; it may exhibit errors during its operation, so always verify the information it provides.
+
+Exania's responses are intended to be short and spontaneous. There are many topics it may not yet be able to respond to, but we're continuously working on improving its capabilities. Your patience and feedback are invaluable as we enhance Exania's performance and accuracy.
 
 # Development and Supervision
 
