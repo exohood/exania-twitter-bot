@@ -1,3 +1,5 @@
+![Title](exania_banner.png)
+
 # X AI Integration Bot 🤖
 
 # Overview
